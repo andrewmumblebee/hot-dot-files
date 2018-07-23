@@ -1,0 +1,9 @@
+[user]
+	email = aceharris@btinternet.com
+	name = Andrew Harris
+[credential]
+	helper = cache
+[winUpdater]
+	recentlySeenVersion = 2.18.0.windows.1
+[core]
+	edior = vim
